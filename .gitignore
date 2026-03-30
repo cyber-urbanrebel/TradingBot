@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+logs/*.log
+ml/models/*.joblib
+data/*.csv
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
